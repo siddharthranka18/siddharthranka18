@@ -125,7 +125,7 @@ Currently going deeper into system design (Docker, Kafka, Kubernetes, load balan
 
 ```
 System Design   →  Docker · Kubernetes · Kafka · Load Balancing · Rate Limiting · CDNs
-Advanced AI     →  Advanced RAG chunking · Reranking · LangGraph · Multi-agent systems
+AI/LLM     →  Advanced RAG chunking · Reranking · LangGraph · Multi-agent systems
 ```
 
 ---
