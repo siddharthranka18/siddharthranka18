@@ -4,7 +4,7 @@
 
 **Full Stack · Backend Systems · AI/LLM · Android**
 
-*2nd Year CSE @ BML Munjal University · Graduating 2028*
+*3rd Year CSE @ BML Munjal University · Graduating 2028*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-ranka-647a52302)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18)
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a 2nd year CSE student who builds across the full stack — backend systems, AI-integrated products, Android apps and React frontends. I care about understanding **why** things are designed the way they are, not just how to use them.
+I'm a 3rd year CSE student who builds across the full stack — backend systems, AI-integrated products, Android apps and React frontends. I care about understanding **why** things are designed the way they are, not just how to use them.
 
 Currently going deeper into system design (Docker, Kafka, Kubernetes, load balancing) and advanced AI/RAG architectures while building real deployed products.
 
