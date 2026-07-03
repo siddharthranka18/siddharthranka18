@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-ranka-647a52302)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthranka18)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthranka91@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Resume_Analyzer-C8FF00?style=for-the-badge&logo=vercel&logoColor=black)](https://resume-analyzer-lovat-delta.vercel.app)
 
 <br/>
 
@@ -32,7 +31,6 @@ const siddharth = {
     "Advanced RAG & LangGraph",
     "Multi-agent AI Systems"
   ],
-  philosophy: "Understand the why, not just the how"
 }
 ```
 
@@ -93,6 +91,19 @@ const siddharth = {
 <tr>
 <td width="50%">
 
+### ✈️ Airport Ride Pooling Backend
+> Intelligent ride matching with geospatial queries
+
+- **MongoDB 2dsphere** — sub-300ms matching
+- Optimistic locking for concurrency safety
+- Dynamic pricing with demand surge engine
+- High-volume concurrent booking support
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/airport-ride-pooling)
+
+</td>
+<td width="50%">
+
 ### 🔔 Notification Engine
 > Scalable async notification infrastructure
 
@@ -103,20 +114,6 @@ const siddharth = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/notification-engine)
 [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=black)](https://notification-engine-6zse.onrender.com)
-
-</td>
-<td width="50%">
-
-### 🤖 Resume Analyzer
-> AI-powered career tool with dual scoring
-
-- PDF/DOCX parsing + skill matching engine
-- **Groq LLaMA** for contextual AI analysis
-- React dark terminal UI · MongoDB history
-- Deployed on Vercel + Render
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/resume-analyzer)
-[![Live](https://img.shields.io/badge/Live-000000?style=flat&logo=vercel&logoColor=white)](https://resume-analyzer-lovat-delta.vercel.app)
 
 </td>
 </tr>
@@ -151,15 +148,16 @@ const siddharth = {
 <tr>
 <td width="50%">
 
-### ✈️ Airport Ride Pooling Backend
-> Intelligent ride matching with geospatial queries
+### 🤖 Resume Analyzer
+> AI-powered career tool with dual scoring
 
-- **MongoDB 2dsphere** — sub-300ms matching
-- Optimistic locking for concurrency safety
-- Dynamic pricing with demand surge engine
-- High-volume concurrent booking support
+- PDF/DOCX parsing + skill matching engine
+- **Groq LLaMA** for contextual AI analysis
+- React dark terminal UI · MongoDB history
+- Deployed on Vercel + Render
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/airport-ride-pooling)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/resume-analyzer)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat&logo=vercel&logoColor=white)](https://resume-analyzer-lovat-delta.vercel.app)
 
 </td>
 <td width="50%">
