@@ -26,11 +26,7 @@ const siddharth = {
   degree:     "B.Tech CSE · 2028",
   location:   "Gurgaon, India",
   focus:      ["Backend Systems", "AI/LLM", "Android", "Full Stack"],
-  currentlyExploring: [
-    "System Design (Docker, Kafka, K8s)",
-    "Advanced RAG & LangGraph",
-    "Multi-agent AI Systems"
-  ],
+  currentlyExploring: "Distributed systems and production-grade AI pipelines",
 }
 ```
 
@@ -46,42 +42,38 @@ const siddharth = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend & Mobile
+### Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### AI / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Concepts
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-4A90D9?style=for-the-badge&logo=blueprint&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-0D0D0D?style=for-the-badge&logo=gitbook&logoColor=white)
+![Queue Architecture](https://img.shields.io/badge/Queue_Architecture-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -89,6 +81,19 @@ const siddharth = {
 
 <table>
 <tr>
+<td width="50%">
+
+### 🏥 SehatSaathi — AI Medical Triage Assistant
+> Voice-enabled AI triage with Hybrid RAG pipeline
+
+- **FastAPI + React + Groq LLaMA 3.3** backend
+- **Qdrant + BM25 + RRF** hybrid retrieval with CrossEncoder reranking
+- Query rewriting, confidence routing and safety guardrails
+- Dockerized backend with multilingual voice + TTS support
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/SehatSaathi)
+
+</td>
 <td width="50%">
 
 ### ✈️ Airport Ride Pooling Backend
@@ -102,6 +107,8 @@ const siddharth = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/airport-ride-pooling)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔔 Notification Engine
@@ -116,8 +123,6 @@ const siddharth = {
 [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=black)](https://notification-engine-6zse.onrender.com)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🛒 AI Shopping Assistant
@@ -131,6 +136,8 @@ const siddharth = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/ai_shopping_agent)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📰 Dynamic News RAG Agent
@@ -142,22 +149,6 @@ const siddharth = {
 - LLaMA 3.1 for grounded, date-aware answers
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/dynamic-news-RAG_agent)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Resume Analyzer
-> AI-powered career tool with dual scoring
-
-- PDF/DOCX parsing + skill matching engine
-- **Groq LLaMA** for contextual AI analysis
-- React dark terminal UI · MongoDB history
-- Deployed on Vercel + Render
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddharthranka18/resume-analyzer)
-[![Live](https://img.shields.io/badge/Live-000000?style=flat&logo=vercel&logoColor=white)](https://resume-analyzer-lovat-delta.vercel.app)
 
 </td>
 <td width="50%">
@@ -198,17 +189,14 @@ const siddharth = {
 
 ## 🔭 Currently Exploring
 
-```
-🐳 System Design    →  Docker · Kubernetes · Kafka · Load Balancing · Rate Limiting
-🧠 Advanced AI      →  RAG Chunking Strategies · Reranking · LangGraph · Multi-agent Systems
-```
+🚀 Going deeper into distributed systems and production-grade AI pipelines
 
 ---
 
 ## 💼 Experience
 
-**Operations Intern — USTART** *(Feb 2025 – Jul 2025)*
-> Cross-functional coordination in a startup environment — workflows, timelines and team follow-ups
+**Software Development Intern — Lipi Data Systems** *(Jun 2026 – Jul 2026)*
+> Developed a Workforce Management Platform using React Native, Node.js, Express.js and MySQL with GPS-based attendance, field visit tracking, background location and OpenStreetMap integration
 
 ---
 
