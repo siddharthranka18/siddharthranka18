@@ -204,6 +204,6 @@ const siddharth = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8FF00,100:0D0D0D&height=120&section=footer"/>
 
-*Building across the stack. Understanding the fundamentals. Shipping real products.*
+*Building across the stack. Understanding the fundamentals.*
 
 </div>
