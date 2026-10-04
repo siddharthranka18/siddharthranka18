@@ -58,8 +58,9 @@ const siddharth = {
 
 ### AI / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-Groq_%C2%B7_OpenAI_%C2%B7_Gemini-F55036?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
