@@ -54,7 +54,7 @@ const siddharth = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-DC244C?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### AI / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -63,7 +63,6 @@ const siddharth = {
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-Groq_%C2%B7_OpenAI_%C2%B7_Gemini-F55036?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -73,9 +72,8 @@ const siddharth = {
 ### Concepts
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-4A90D9?style=for-the-badge&logo=blueprint&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-0D0D0D?style=for-the-badge&logo=gitbook&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6C5CE7?style=for-the-badge&logo=buffer&logoColor=white)
 ![Queue Architecture](https://img.shields.io/badge/Queue_Architecture-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
 ---
 
 ## 🚀 Projects
